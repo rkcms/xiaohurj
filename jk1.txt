@@ -17,8 +17,6 @@
 {"key":"mtv_xp_达龟影视","name":"🐢达龟影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-达龟影视.json"},
 {"key":"drpy_js_饭团影视","name":"🍚饭团影视","type":3,"api":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/libs/drpy.min.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/饭团影视.js"},
 {"key":"csp_AppYs_秒播","name":"✅绿色影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
-{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_新视觉","name": "🍁新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch": 1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/68477/%E6%96%B0%E8%A7%86%E8%A7%89.jar?sign=5hkB9freXo4-WOfuRa3Kc8_eUA4GPuMxVNgKOVUMnhs%3D%3A0"}
 
 ],
