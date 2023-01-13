@@ -11,6 +11,8 @@
 {"key":"mtv_xp_乐猪影院","name":"🐖乐猪影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-乐猪影院.json"},
 {"key":"mtv_xp_小纸条源","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
 {"key":"mtv_xp_易搜资源","name":"💿易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
+{"key":"AliPS","name":" 📀阿里盘搜","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/tok","jar":"http://52bsj.vip:81/api/v3/file/get/71914/ali3.jar?sign=sP2lTaa6VKjycpE0xeIubEEWlYZpO7Ln3rjPq8a4XKQ%3D%3A0;md5;e3b236416ca6f34b41aeca2c83809837"},
+{"key":"Upso","name":"☁️阿里云搜(搜索)","type":"3","api":"csp_Upyunso","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/tok"},
 {"key":"csp_xbb_555电影","name":"🖐555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/555电影.json"},
 {"key":"小苹果","name": "🍎小苹果","type": 3,"api":"csp_LiteApple","searchable":1,"quickSearch": 1,"filterable":1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/xo.jar"},
 {"key":"mtv_xp_农民影视","name":"🧔农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-农民影视.json"},
