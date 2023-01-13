@@ -5,7 +5,6 @@
 
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_BuLei","name":"⚡️布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_酷云七七","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_快看影视","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_360影视","name":"👌360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -20,6 +19,13 @@
 {"key":"csp_AppYs_秒播","name":"✅绿色影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
 {"key":"csp_AppTT","name":"🗺️图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9955"},
 {"key":"AppTT","name":"🗺️图图备用","type":3,"api":"csp_Dora","jar":"http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext":"110c922de7d69804467fb83d3bb664b5"},
+{
+            "key" : "drpy_js_布雷蓝光",
+            "name" : "🎑布雷蓝光",
+            "type" : 3,
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+            "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%B8%83%E9%9B%B7%E8%93%9D%E5%85%89.js"
+        },
 {"key":"csp_新视觉","name": "🍁新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch": 1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/68477/%E6%96%B0%E8%A7%86%E8%A7%89.jar?sign=5hkB9freXo4-WOfuRa3Kc8_eUA4GPuMxVNgKOVUMnhs%3D%3A0"}
 
 ],
