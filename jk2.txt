@@ -2,8 +2,6 @@
 
 {
 "sites": [
-{"key":"csp_Smdyy","name":"🦄神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
-
 
 {"key":"mtv_xp_小纸条源","name":"📜阿里小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
 
