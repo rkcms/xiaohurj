@@ -2,10 +2,15 @@
 
 {"sites": [
 
-{"key":"csp_Smdyy","name":"🦄神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"}
 
+{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
+
+{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
+
+{"key":"niketv_spider","name":"耐客TV","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
+
+{"key":"UPanSo","name":"优盘搜","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"f09e62df298c4567ade35d8ce1d187d6"},
 
 ],
 
