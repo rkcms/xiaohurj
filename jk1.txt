@@ -13,23 +13,11 @@
 
 {"key":"mtv_pc_360影视","name":"👌360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Smdyy","name":"🦄神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_AppTT","name":"🗺️图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9955"},
 
 {"key":"AppTT","name":"🗺️图图备用","type":3,"api":"csp_Dora","jar":"http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext":"110c922de7d69804467fb83d3bb664b5"},
 
 {"key":"mtv_xp_乐猪影院","name":"🐖乐猪影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-乐猪影院.json"},
-
-{"key":"mtv_xp_小纸条源","name":"📜阿里小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
-
-{"key":"Zhaozy","name":" 🔍阿里找资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/tok","jar":"http://52bsj.vip:81/api/v3/file/get/71914/ali3.jar?sign=sP2lTaa6VKjycpE0xeIubEEWlYZpO7Ln3rjPq8a4XKQ%3D%3A0;md5;e3b236416ca6f34b41aeca2c83809837"},
-
-{"key":"mtv_xp_易搜资源","name":"💿阿里易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
-
-{"key":"AliPS","name":" 📀阿里盘搜","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/tok","jar":"http://52bsj.vip:81/api/v3/file/get/71914/ali3.jar?sign=sP2lTaa6VKjycpE0xeIubEEWlYZpO7Ln3rjPq8a4XKQ%3D%3A0;md5;e3b236416ca6f34b41aeca2c83809837"},
-
-{"key":"Upso","name":"☁️阿里云搜","type":"3","api":"csp_Upyunso","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/tok"},
 
 {"key":"csp_xbb_555电影","name":"🖐555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/555电影.json"},
 
