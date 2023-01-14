@@ -2,26 +2,15 @@
 
 {"sites": [
 
-{"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
+{"key":"百影视频","name":"百影","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
 
-{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
+{"key":"YQK_spider","name":"一起看","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 
-{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
+{"key":"棉花影视","name":"棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
 
-{"key":"csp_1010","name":"🎉双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Smdyy","name":"神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Smdyy","name":"🦄神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"drpy_js_Alist","name":"📂Alist┃DR","type":3,"api":"./libs/alist.min.js","ext":"./js/alist.json"},
-
-{"key": "csp_Biubiu_600影视","name":"🤘600影视┃XB","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.600dvd.com/list/{cateId}_1_desc__0_0___.html"},
-
-{"key": "csp_XBiu_影视之光","name": "️📼影视之光┃XB","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.8kvod.com/t/{cateId}"},
-
-{"key" : "drpy_js_独播库","name" : " 💿独播库┃DR","type" : 3,"api" : "./libs/drpy.min.js","ext" : "./js/独播库.js"},
-
-
-{"key":"niketv_spider","name":"耐客TV","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""}
+{"key":"niketv_spider","name":"耐客","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""}
 
 
 ],
