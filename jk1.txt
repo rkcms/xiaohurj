@@ -5,8 +5,6 @@
 
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"mtv_pc_酷云七七","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"mtv_pc_快看影视","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"mtv_pc_360影视","name":"👌360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -26,10 +24,6 @@
 {"key":"mtv_xp_农民影视","name":"🧔农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-农民影视.json"},
 
 {"key":"mtv_xp_达龟影视","name":"🐢达龟影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-达龟影视.json"},
-
-{"key":"drpy_js_饭团影视","name":"🍚饭团影视","type":3,"api":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/libs/drpy.min.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/饭团影视.js"},
-
-{"key":"csp_AppYs_秒播","name":"✅绿色影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
 
 {"key":"csp_Tkys","name":"🐞天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cp0921%e4%bf%ae%e5%a4%8d%e5%a4%a9%e7%a9%ba.jar"},       
 
