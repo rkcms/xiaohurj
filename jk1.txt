@@ -23,7 +23,9 @@
 
 {"key":"csp_Tkys","name":"🐞天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cp0921%e4%bf%ae%e5%a4%8d%e5%a4%a9%e7%a9%ba.jar"},       
 
-{"key": "csp_xpath_fantuan","name":"️🍙饭团影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e9%a5%ad%e5%9b%a2%e5%bd%b1%e8%a7%86.json"},
+{"key": "csp_xpath_fantuan","name":"️🍙饭团影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lytv/zyck/raw/branch/master/%e9%a5%ad%e5%9b%a2%e5%bd%b1%e8%a7%86.json"},
+
+{"key":"csp_XBiu口袋影院","name":"📩口袋影视","type":3,"api":"csp_XBiu","ext":{"homeUrl":"http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
 
 {"key":"csp_新视觉","name": "🍁新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch": 1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/68477/%E6%96%B0%E8%A7%86%E8%A7%89.jar?sign=5hkB9freXo4-WOfuRa3Kc8_eUA4GPuMxVNgKOVUMnhs%3D%3A0"}
 
