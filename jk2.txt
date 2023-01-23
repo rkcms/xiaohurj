@@ -9,8 +9,6 @@
 
 {"key":"棉花影视","name":"棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
 
-{"key": "Voflix","name": "Voflix(爬虫)","type": 3,"api": "csp_Voflix","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},
-
 {"key":"csp_Smdyy","name":"神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"niketv_spider","name":"耐客","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""}
