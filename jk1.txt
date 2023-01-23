@@ -27,6 +27,8 @@
 
 {"key":"csp_XBiu口袋影院","name":"📩口袋影视","type":3,"api":"csp_XBiu","ext":{"homeUrl":"http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
 
+{"key":"4K","name":"🌸4K资源网","type":3,"api":"csp_xBPQ","filterable":1,"quickSearch":1,"searchable":1,"playerType": "1","ext":"http://52bsj.vip:81/api/v3/file/get/71913/4kvm.json?sign=ARtkUUB2LnGr68XHmFwiWgdybX4Kt3fyCI5VpkdTXw0%3D%3A0"},
+
 {"key":"csp_新视觉","name": "🍁新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch": 1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/68477/%E6%96%B0%E8%A7%86%E8%A7%89.jar?sign=5hkB9freXo4-WOfuRa3Kc8_eUA4GPuMxVNgKOVUMnhs%3D%3A0"}
 
 
