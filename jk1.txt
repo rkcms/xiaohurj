@@ -5,6 +5,12 @@
 
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_Dy555","name":"5️⃣️555影视（SP）","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_Nkdy","name":"⏺耐看","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"AppTT","name":"🗺️图图影视","type":3,"api":"csp_Dora","jar":"http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext":"110c922de7d69804467fb83d3bb664b5"},
 
 {"key":"360_spider","name":"💫360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable": 1},
