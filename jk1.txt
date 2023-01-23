@@ -3,9 +3,9 @@
 
 {"key":"AppTT","name":"🗺️图图影视","type":3,"api":"csp_Dora","jar":"http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext":"110c922de7d69804467fb83d3bb664b5"},
 
-{"key":"csp_xBPQ_乐猪影视","name":"🐷乐猪影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/68611/%E4%B9%90%E7%8C%AA.json?sign=3LCwJDKuCI_c1-ZE-Y75aw_BpTafG10Zh5mW4gwL7mU%3D%3A0"},
-
 {"key":"360_spider","name":"💫360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable": 1},
+
+{"key":"Smdyy","name":"🌈神马","type":"3","api":"csp_Smdyy","searchable":"1","quickSearch":"1","filterable":"1","jar":"http://52bsj.vip:81/api/v3/file/get/68860/xo.jar?sign=hHA3T9pSJ3P9JYmV5cam9_CLdLz2xB3WguFbZLMNRdU%3D%3A0"},
 
 {"key":"小苹果","name": "🍎小苹果","type": 3,"api":"csp_LiteApple","searchable":1,"quickSearch": 1,"filterable":1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/xo.jar"},
 
