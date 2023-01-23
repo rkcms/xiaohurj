@@ -11,10 +11,6 @@
 
 {"key":"csp_Smdyy","name":"神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Dy555","name":"5️️555影视","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_Nkdy","name":"耐看","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"niketv_spider","name":"耐客","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""}
 
 
