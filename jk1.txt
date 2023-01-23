@@ -1,9 +1,7 @@
 {
 "sites": [
 
-{"key":"csp_lezhu","name":"🐷乐猪影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
 
-{"key": "4K","name": " 🌸4K资源网","type": 3,"api": "csp_xBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"playerType": "1","ext": "http://52bsj.vip:81/api/v3/file/get/71913/4kvm.json?sign=ARtkUUB2LnGr68XHmFwiWgdybX4Kt3fyCI5VpkdTXw0%3D%3A0"},
 
 {"key":"AppTT","name":"🗺️图图影视","type":3,"api":"csp_Dora","jar":"http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext":"110c922de7d69804467fb83d3bb664b5"},
 
