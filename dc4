@@ -136,7 +136,7 @@
 //网络线路        
         {
            "url": "https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
-           "name":"↓↓↓点击选择💎网络收集"
+           "name":"↓↓↓点击选择"
         },
          {
             "url": "https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
@@ -217,56 +217,8 @@
         {
             "url": " http://www.dmtv.ml/mao/mao.php?type=single",
             "name": "🚴🏻网络收集5[多条线路]"
-        },
-
-
-
-
-//VIP线路
-        {
-           "url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
-           "name":"↓↓↓点击选择🍭VIP线路"
-        },
-        {
-            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
-            "name": "🐝月光宝盒PLUS[多条线路]"
-        },
-        {
-            "url": "http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt",
-            "name": "🐝电视免VIP[多条线路]"
-        },
-        {
-            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
-            "name": "🐝yeshijieC.json[多条线路]"
-        },
-        {
-            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieD.json",
-            "name": "🐝yeshijieD.json[多条线路]"
-        },
-        {
-            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieE.json",
-            "name": "🐝yeshijieE.json[多条线路]"
-        },
-        {
-            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieF.json",
-            "name": "🐝yeshijieF.json[多条线路]"
-        },
-        {
-            "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
-            "name": "🐝wlyz88FL",
-            "time": "2022-08-26 02:00:00[多条线路]"
-        },
-        {
-            "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
-            "name": "🐝8f1c5[多条线路]"
-        },
-        {
-            "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt",
-            "name": "🐝chengxue[多条线路]"
-        },  
-        {
-            "url": "https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json",
-            "name": "🐝mmtekamu[多条线路]"
         }
+
+
     ]
 }
