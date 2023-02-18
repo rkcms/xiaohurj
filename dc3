@@ -41,6 +41,10 @@
             "name": "👄t20"
         },
         {
+            "url": "http://www.dmtv.ml/mao/mao.php?type=single",
+            "name": "👄mao"
+        },
+        {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox",
             "name": "👄二哈"
         }
